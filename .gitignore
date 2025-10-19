@@ -55,3 +55,6 @@ fastlane/test_output
 # Other common macOS development artifacts
 *.swp
 *~
+
+# Code Workspace
+*.code-workspace
